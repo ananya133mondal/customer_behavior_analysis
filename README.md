@@ -133,9 +133,6 @@ This project demonstrates an end-to-end data analytics workflow, from raw data p
 
 By combining Python, PostgreSQL, and Power BI, the project transforms customer transaction data into meaningful insights that can support customer retention, subscription growth, product promotion, and data-driven business decisions.
 
-## 8. Author
 
-**Ananya Mondal**
 
-B.Tech Mechanical Engineering | MNNIT Allahabad
 
